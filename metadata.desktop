@@ -1,16 +1,15 @@
 [SddmGreeterTheme]
-Name=YoRHa Theme
-Description=A YoRHa login screen
-Author=NeekoKun
+Name=The Index sddm
+Description=The Index login screen
+Author=Rifqi2007c
 Copyright=Copyright (C) 2026 NeekoKun
 License=GPL-3.0-or-later
 Type=sddm-theme
 Version=1.0
-Website=https://github.com/NeekoKun/YoRHa-sddm-theme
+Website=https://github.com/Rifqi2007c/the-index-theme
 Screenshot=Previews/default.png
 MainScript=Main.qml
 ConfigFile=theme.conf
 TranslationsDirectory=translations
-Email=neekokun@proton.me
-Theme-Id=YoRHa-theme
+Theme-Id=the-index-theme
 Theme-API=2.11
