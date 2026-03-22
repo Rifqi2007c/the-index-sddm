@@ -1,5 +1,5 @@
-!! Blatanly stolen code from [SDDM Sugar Dark](https://github.com/MarianArit/sddm-sugar-dark) !!
-!! Blatantly stolen and trace over from [YoRHa](https://github.com/NeekoKun/YoRHa-sddm-theme/tree/master) !!
+- !! Blatanly stolen code from [SDDM Sugar Dark](https://github.com/MarianArit/sddm-sugar-dark) !!
+- !! Blatantly stolen and trace over from [YoRHa](https://github.com/NeekoKun/YoRHa-sddm-theme/tree/master) !!
 
 ## Previews
 ![Default Preview](./Previews/default.png)
