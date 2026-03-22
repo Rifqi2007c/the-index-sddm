@@ -1,4 +1,5 @@
 !! Blatanly stolen code from [SDDM Sugar Dark](https://github.com/MarianArit/sddm-sugar-dark) !!
+!! Blatantly stolen and trace over from [YoRHa](https://github.com/NeekoKun/YoRHa-sddm-theme/tree/master) !!
 
 ## Previews
 ![Default Preview](./Previews/default.png)
@@ -16,7 +17,7 @@
 2. Edit `/etc/sddm.conf` and set:
     ```
     [Theme]
-        Current=YoRHa
+        Current=the-index-sddm
     ```
 3. Restart your display manager or reboot your system
 
