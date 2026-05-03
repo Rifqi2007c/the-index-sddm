@@ -25,3 +25,7 @@
 ```bash
 sddm-greeter --test-mode --theme <theme root folder>
 ```
+
+### Nixos Modules
+created by: [ixora-0](https://github.com/ixora-0)
+- [the-index-sddm.nix](https://github.com/Rifqi2007c/the-index-sddm/blob/main/the-index-sddm.nix)
